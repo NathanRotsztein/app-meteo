@@ -1,4 +1,4 @@
-name: Deployment on heroku
+name: Deployment and check
 on: 
   push:
     branches:
